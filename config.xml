@@ -4,10 +4,10 @@
         id        = "asia.nextus.mmm"
         version   = "1.0.0">
 
-    <name>mmm</name>
+    <name>Beta App</name>
 
     <description>
-        mmm sample application that responds to the deviceready event.
+        beta sample application that responds to the deviceready event.
     </description>
 
     <author href="http://nextus.asia" email="mark@nextus.asia">
